@@ -4,9 +4,9 @@ I recommend that you print this with a 20% infill and 3 wall loops.  No supports
 
 The files in this repository are:
 
-**LICENSE** - GNU License.  Standard stuff.
-**README.md** - This file
-**bambu_printer_bed.jpg** - A view of all of the various parts that will be printed. 
-**radial_winder_KM5GT.3mf** - A 3MF file will all of the parts.  Same as the bambu_printer_bed view.
-**radial_winder_KM5GT.FCStd** - the FreeCAD source file for the design.  Download and modify any way you like.
-**radial_winder_exploded_view.jpg** - This shows how all the bits fit together.  
+- **LICENSE** \- GNU License. Standard stuff.
+- **README.md** \- This file
+- **bambu_printer_bed.jpg** \- A view of all of the various parts that will be printed.
+- **radial_winder_KM5GT.3mf** \- A 3MF file with all of the parts. Same as the bambu_printer_bed view.
+- **radial_winder_KM5GT.FCStd** \- The FreeCAD source file for the design. Download and modify any way you like.
+- **radial_winder_exploded_view.jpg** \- This shows how all the bits fit together.
